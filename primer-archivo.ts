@@ -1,2 +1,2 @@
 // Primer achivo en TS
-console.log('Hola Git');
+console.log('New Hola Git');
